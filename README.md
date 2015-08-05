@@ -1,2 +1,2 @@
-# stevencamp.github.io
-A site for steve.
+# kickass.github.io
+A site for KICKASS
